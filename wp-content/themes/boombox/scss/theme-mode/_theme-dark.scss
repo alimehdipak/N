@@ -1,0 +1,16 @@
+/* *** Dark theme styles *** */
+
+
+.boombox-theme-dark {
+
+  .bb-mode-switcher {
+    .bb-night-mode-icon {
+      transform: translate(-50% , 100px);
+    }
+  }
+
+
+  .bb-logo-dark {
+    display: none;
+  }
+}
