@@ -1,1 +1,0 @@
-<?php do_action( 'boombox_amp_affiliate_content' ); ?>
